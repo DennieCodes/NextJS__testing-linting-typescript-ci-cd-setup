@@ -1,5 +1,11 @@
-import React from 'react';
+import React from "react";
 
 export function Hello() {
-	return <div>Hello</div>;
+  return (
+    <>
+      <h1>Hello</h1>
+
+      <p>HERE</p>
+    </>
+  );
 }
